@@ -1,1 +1,1 @@
-# Cross_FIT
+# Cross_FIT (Finance X IT)
