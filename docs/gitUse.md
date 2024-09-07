@@ -39,3 +39,5 @@
 
 9. push 이후 web에 원격 저장소(repository)로 이동하여 pull request 작성
    ![image](https://github.com/wxxhyeong/kb-study/assets/78301292/1483839a-743f-4970-9098-2d962421d6d0)
+
+---
