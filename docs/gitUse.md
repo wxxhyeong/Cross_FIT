@@ -15,7 +15,7 @@
   
 5. git clone 후 clone한 폴더로 이동
    
-   ```git clone `원본 Repo말고 fork한 자신의 Repo주소'```
+   ```git clone `원본 Repo말고 fork한 자신의 Repo주소'``` 입력
    
    ![image](https://github.com/user-attachments/assets/96d13bb9-489a-448b-850e-dcc8055eab3d)
 
